@@ -36,3 +36,50 @@ published to the public must obey the rules and regulations of Myanmar Cuisine R
 application and need to approve the permission from administrator. The post which is deviate
 with the rules of the Myanmar Cuisine Recipe application will banned by administrator. The
 post which is complete with rules can share on social media other media.
+
+
+
+
+Interview Technique
+
+According to the implementation of knowledge sharing application, the originally
+owned technical and cooking methods are confidential and has copyright. Even some cooking
+methods are strongly prohibited by technical owner and shop owner. So, it is need to inform
+the information from genuine person. Firstly, request permission for appointment about
+cooking methods from shop/ restaurant owner. Then, make interview with authenticate person
+about project objectives. Then, make rules and regulations on those data for confidential.
+If essential apply of some data about cooking material and method, credit must make for
+original source. Before making the interview, the scope of the project objectives and interview
+objectives are report to chief/ restaurant. Then, make interview with scope of the agreement.
+
+
+Online Research
+
+
+Although all the require data and information can get from internet, some data are
+genuine and originally registered with local and international copy right laws. So, it is critically
+important to avoid the data with copyright law. If the data is open source, it is critically important
+to make credit to original owner.
+I will research and learn about other similar application not only on the meals, ingredients,
+cooking technique and other related but also on the android application and its technical
+development. The project domain information can get from making interview technique.
+Almost all the technical experiences of developing android application from internet. Mostly
+on the “Free Source Code” website.
+
+Journal article
+
+Moreover, some data and information are get form learning the journals and books.
+Especially with the making mobile and web application on different articles. Then emphasis
+and particularly approach to the require project domain. All the knowledge and ideas are
+getting through learning on technical journals and magazines.
+
+
+Methodologies /Tools (tracking your project’s progress & timelines & activities)
+
+To meet the project functionalities is critically important because when implementing
+the project, functional and non-functional should be clearly classified. So, the unwanted error
+and issues are eliminated (Run Time Error). Therefore, the classification of functional and nonfunctional is important.
+In this project the MosCow Priorities technique is used to classify the functionalities and nonfunctionalities. The following table shows the functional and non-functional of “Myanmar
+Cuisine Recipe” application.
+
+
